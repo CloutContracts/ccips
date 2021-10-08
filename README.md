@@ -1,1 +1,2 @@
-# cips
+# CCIPS
+### CloutContracts Improvement Proposals

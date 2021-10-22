@@ -46,7 +46,7 @@ Please replace this line with a brief summary of your proposal
 
 **What is your ERC20 Address?**
 
-*CCS delivered upon milestones if accepted. Recieivng CCS isn't guaranteed.*
+*CCS delivered upon milestones if accepted. Receiving CCS isn't guaranteed.*
 
 ## *Who* is the Author?
 

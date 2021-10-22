@@ -3,4 +3,4 @@
 # CCIPS
 ### CloutContracts Improvement Proposals
 
-Welcome to the CCIPS repository! *CCIPS* or *CloutContracts Improvement Proposals* are proposals of pieces for software, integrations or changes to the CloutContracts ecosystem. Certain CCIPS *(Such as project CCIPS)* might even be elgible for grants or sponsorships.
+Welcome to the CCIPS repository! *CCIPS* or *CloutContracts Improvement Proposals* are proposals for pieces of software, integrations or changes to the CloutContracts ecosystem. Certain CCIPS *(Such as project CCIPS)* might even be elgible for grants or sponsorships.
